@@ -1,0 +1,75 @@
+{
+  "totals": {
+    "person": 79,
+    "truck": 1,
+    "car": 16,
+    "motorcycle": 36
+  },
+  "data": [
+    {
+      "class_id": 3,
+      "class": "motorcycle",
+      "confidence": 0.5757513046264648,
+      "bbox": {
+        "x_min": 668,
+        "y_min": 587,
+        "x_max": 769,
+        "y_max": 725
+      },
+      "object_id": 13,
+      "date": "2023-11-06 10:29:50"
+    },
+    {
+      "class_id": 3,
+      "class": "motorcycle",
+      "confidence": 0.5232455730438232,
+      "bbox": {
+        "x_min": 658,
+        "y_min": 533,
+        "x_max": 770,
+        "y_max": 724
+      },
+      "object_id": 23,
+      "date": "2023-11-06 10:29:50"
+    },
+    {
+      "class_id": 3,
+      "class": "motorcycle",
+      "confidence": 0.43761926889419556,
+      "bbox": {
+        "x_min": 680,
+        "y_min": 356,
+        "x_max": 772,
+        "y_max": 476
+      },
+      "object_id": 31,
+      "date": "2023-11-06 10:29:50"
+    },
+    {
+      "class_id": 0,
+      "class": "person",
+      "confidence": 0.43456706404685974,
+      "bbox": {
+        "x_min": 681,
+        "y_min": 353,
+        "x_max": 774,
+        "y_max": 474
+      },
+      "object_id": 8,
+      "date": "2023-11-06 10:29:50"
+    },
+    {
+      "class_id": 0,
+      "class": "person",
+      "confidence": 0.41664206981658936,
+      "bbox": {
+        "x_min": 422,
+        "y_min": 271,
+        "x_max": 455,
+        "y_max": 351
+      },
+      "object_id": 21,
+      "date": "2023-11-06 10:29:50"
+    }
+  ]
+}
